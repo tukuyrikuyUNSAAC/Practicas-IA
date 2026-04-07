@@ -1,4 +1,3 @@
 Practicas de IA
 
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK_AQUI)
+https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/G1.1.FuncionesOrdenSuperior.ipynb
