@@ -1,0 +1,11 @@
+El área de Informática de la empresa Inka’s Car dedicada al alquiler de vehículos, desea efectuar lo siguiente:
+•	Implementar las siguientes clases:
+-	Vehículo con los siguientes atributos: Placa, Marca, Modelo, Color y Año.
+-	Vehículo de carga, heredera de la clase Vehículo; con los siguientes atributos adicionales: NroEjes, CargaBruta y CargaNeta.
+-	Vehículo de pasajeros, heredera de la clase Vehículo; con los siguientes atributos adicionales: NroPasajeros.
+Para cada una de estas clases, se debe implementar los métodos de: Leer, Mostrar y Escribir.
+•	Implementar una aplicación con un menú que considere las opciones necesarias para:
+-	Almacenar objetos de las clases Vehículos de carga y de pasajeros en una lista.
+-	Visualizar los datos de un determinado vehículo, ingresando sólo la placa del vehículo.
+-	Emitir listados de: todos los vehículos, sólo vehículos de carga y sólo vehículos de pasajeros.
+
