@@ -40,8 +40,8 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 
 | Tema | Descripción | Acceso |
 |------|------------|--------|
-| Tema 1 | Descripción breve | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA03/G3.1.AgentesInteligentes.ipynb) |
-| Tema 2 | Descripción breve | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA03/G3.2.AgentesInteligentesEJM.ipynb) |
+| Tema 1 | Agentes Inteligentes | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA03/G3.1.AgentesInteligentes.ipynb) |
+| Tema 2 | Ejemplos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA03/G3.2.AgentesInteligentesEJM.ipynb) |
 | Ejercicios | Práctica propuesta | [Ver archivo](https://github.com/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA03/G3.3.Tarea.txt) |
 
 ---
