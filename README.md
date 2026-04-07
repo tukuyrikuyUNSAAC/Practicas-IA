@@ -20,11 +20,11 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 
 ### 🔹 GUÍA 01: Fundamentos de Python
 
-| Tema | Descripción | Abrir |
-|------|------------|------|
-| Funciones de Orden Superior | Uso de funciones como parámetros | [Abrir](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA01/G1.1.FuncionesOrdenSuperior.ipynb) |
-| Estructuras de Datos | Listas, tuplas, diccionarios | [Abrir](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA01/G1.2.EstructurasDatos.ipynb) |
-| Ejercicios | Práctica aplicada | [Abrir](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA01/G1.3.Ejercicios.ipynb) |
+| Tema | Descripción | Acceso |
+|------|------------|--------|
+| Funciones de Orden Superior | Uso de funciones como parámetros | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA01/G1.1.FuncionesOrdenSuperior.ipynb) |
+| Estructuras de Datos | Listas, tuplas, diccionarios | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA01/G1.2.EstructurasDatos.ipynb) |
+| Ejercicios | Práctica aplicada | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA01/G1.3.Ejercicios.ipynb) |
 
 ---
 
