@@ -51,9 +51,3 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 - ✔ Trabajar siempre en tu copia en Drive  
 - ✔ No modificar los archivos originales  
 - ✔ Entregar solo notebooks `.ipynb`  
-
----
-
-## 👨‍🏫 Docente
-
-Repositorio mantenido para fines académicos.
