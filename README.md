@@ -32,7 +32,7 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 
 | Tema | Descripción | Acceso |
 |------|------------|--------|
-| POO en Python | Clases, objetos, métodos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA02/G2.2.POO_Python.ipynb) |
+| POO en Python | Clases, objetos, métodos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA02/G2.1.POO_Python.ipynb) |
 | Ejercicio Propuesto | Actividad para desarrollar | [Ver archivo](https://github.com/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA02/G2.2.Ejercicio.txt) |
 
 ---
