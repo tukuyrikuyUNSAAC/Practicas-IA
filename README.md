@@ -46,6 +46,16 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 
 ---
 
+### 🔹 GUÍA 04: Busquedas
+
+| Tema | Descripción | Acceso |
+|------|------------|--------|
+| Busquedas | Fundamentos y conceptos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA04/Búsqueda A_.ipynb) |
+| Ejercicio | Casos prácticos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA04/Búsqueda_A__Ejercicio.ipynb) |
+
+
+---
+
 ⚠️ **IMPORTANTE:**  
 La tarea debe desarrollarse en una copia en Google Colab:  
 👉 Archivo → Guardar una copia en Drive  
