@@ -46,12 +46,14 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 
 ---
 
-### 🔹 GUÍA 04: Busquedas
+### 🔹 GUÍA 04: Búsquedas
 
 | Tema | Descripción | Acceso |
 |------|------------|--------|
-| Busquedas | Fundamentos y conceptos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA04/Búsqueda A_.ipynb) |
-| Ejercicio | Casos prácticos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA04/Búsqueda_A__Ejercicio.ipynb) |
+| Búsqueda de Soluciones | Fundamentos y conceptos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA04/01BusquedaSoluciones.ipynb) |
+| Búsqueda en Anchura | Casos prácticos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA04/02BusquedaAnchura.ipynb) |
+| Búsqueda en Profundidad | Casos prácticos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA04/03BusquedaProfundidad.ipynb) |
+| 🔴 **TAREA** | 📝 Actividad evaluada (entregable) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA04/busquedaTAREA.ipynb) |
 
 
 ---
