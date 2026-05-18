@@ -66,19 +66,7 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 
 ---
 
-⚠️ **IMPORTANTE:**  
-La tarea debe desarrollarse en una copia en Google Colab:  
-👉 Archivo → Guardar una copia en Drive  
 
-📌 **Entrega:** Subir el archivo `.ipynb` según indicaciones del docente
-
----
-
-## 📌 Recomendaciones
-
-- ✔ Trabajar siempre en tu copia en Drive  
-- ✔ No modificar los archivos originales  
-- ✔ Entregar solo notebooks `.ipynb`  
 
 
 ### 🔹 GUÍA 06: Algoritmos Genéticos
