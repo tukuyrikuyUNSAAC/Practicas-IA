@@ -75,11 +75,17 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 
 ---
 
+### 🔹 GUÍA 07: Busqueda entre adversarios
+
+| Tema | Descripción | Acceso |
+|------|------------|--------|
+| MinMax | Fundamentos y conceptos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA07/Minimax.ipynb) |
+
+---
+
 ⚠️ **IMPORTANTE:**  
 La tarea debe desarrollarse en una copia en Google Colab:  
 👉 Archivo → Guardar una copia en Drive  
-
-📌 **Entrega:** Subir el archivo `.ipynb` según indicaciones del docente
 
 ---
 
