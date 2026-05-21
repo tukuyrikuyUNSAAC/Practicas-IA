@@ -66,15 +66,12 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 
 ---
 
-
-
-
 ### 🔹 GUÍA 06: Algoritmos Genéticos
 
 | Tema | Descripción | Acceso |
 |------|------------|--------|
-| Básico 1 | Fundamentos y conceptos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA06/Algoritmos_genéticos_Básico_1.ipynb) |
-| Básico 2 | Casos prácticos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA06/Algoritmos_genéticos_2yT.ipynb) |
+| Básico 1 | Fundamentos y conceptos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA06/01AG_basico.ipynb) |
+| Básico 2 | Casos prácticos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA06/02AG_parte2Tarea.ipynb) |
 
 ---
 
