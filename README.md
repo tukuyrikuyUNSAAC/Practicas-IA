@@ -92,6 +92,15 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 |------|------------|--------|
 | Sistemas Expertos | Fundamentos y conceptos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA08/introduccion.ipynb) |
 
+---
+
+### 🔹 GUÍA 08: Sistemas Expertos
+
+| Tema | Descripción | Acceso |
+|------|------------|--------|
+| Introducción a Prolog | Fundamentos del paradigma declarativo y uso de SWI Prolog | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](TU_LINK_COLAB_AQUI) |
+| Presentación PDF | Material teórico sobre lenguaje PROLOG y ejercicios básicos | [Ver PDF](./GUIA08/Prolog01.pdf) |
+
 ## ![TERCERA PARCIAL](https://img.shields.io/badge/TERCERA%20PARCIAL-green?style=for-the-badge)
 
 ## ![PROYECTO DE FIN DE CURSO](https://img.shields.io/badge/PROYECTO-red?style=for-the-badge)
