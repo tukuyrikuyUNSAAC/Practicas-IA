@@ -101,14 +101,14 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 | Presentación PDF | Material teórico sobre lenguaje PROLOG y ejercicios básicos | [Ver PDF](./GUIA08/Prolog01.pdf) |
 
 ---
-### 🔹 GUÍA 10: Programación en Prolog
+### 🔹 GUÍA 10: Sistemas Expertos 03
 
 | Tema | Descripción | Acceso |
 |------|------------|--------|
-| Ejemplo 01 | Desarrollo de predicados y reglas básicas en Prolog | [Ver archivo](./GUIA10/ejemplo1.pl) |
-| Ejemplo 02 | Uso de estructuras lógicas y consultas | [Ver archivo](./GUIA10/ejemplo2.pl) |
-| Ejemplo 03 | Implementación de algoritmos recursivos | [Ver archivo](./GUIA10/ejemplo3.pl) |
-| Ejemplo 04 | Manejo de listas y operaciones en Prolog | [Ver archivo](./GUIA10/ejemplo4.pl) |
+| Ejemplo 01 | Criminal | [Ver archivo](./GUIA10/01 criminal.pl) |
+| Ejemplo 02 | Predicado dinamico 01 | [Ver archivo](./GUIA10/ejemplo2.pl) |
+| Ejemplo 03 | Predicado dinamico 02 | [Ver archivo](./GUIA10/ejemplo3.pl) |
+| Ejemplo 04 | Sistema Experto | [Ver archivo](./GUIA10/ejemplo4.pl) |
 | Presentación PDF | Fundamentos teóricos y ejercicios prácticos de Prolog | [Ver PDF](./GUIA10/Prolog01.pdf) |
 
 ## ![TERCERA PARCIAL](https://img.shields.io/badge/TERCERA%20PARCIAL-green?style=for-the-badge)
