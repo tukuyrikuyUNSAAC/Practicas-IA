@@ -93,4 +93,8 @@ SEGUNDA PARCIAL
 |------|------------|--------|
 | Sistemas Expertos | Fundamentos y conceptos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA08/introduccion.ipynb) |
 
+TERCERA PARCIAL
+---
+
+PROYECTO
 ---
