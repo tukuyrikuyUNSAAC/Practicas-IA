@@ -94,4 +94,4 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 
 ## ![TERCERA PARCIAL](https://img.shields.io/badge/TERCERA%20PARCIAL-green?style=for-the-badge)
 
-## ![PROYECTO DE FIN DE CURSO](https://img.shields.io/badge/PROYECTO-RED?style=for-the-badge)
+## ![PROYECTO DE FIN DE CURSO](https://img.shields.io/badge/PROYECTO-red?style=for-the-badge)
