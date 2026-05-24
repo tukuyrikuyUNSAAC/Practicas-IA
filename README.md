@@ -92,8 +92,6 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 |------|------------|--------|
 | Sistemas Expertos | Fundamentos y conceptos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA08/introduccion.ipynb) |
 
-TERCERA PARCIAL
----
+## ![TERCERA PARCIAL](https://img.shields.io/badge/TERCERA%20PARCIAL-green?style=for-the-badge)
 
-PROYECTO
----
+## ![PROYECTO DE FIN DE CURSO](https://img.shields.io/badge/PROYECTO-RED?style=for-the-badge)
