@@ -105,7 +105,7 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 
 | Tema | Descripción | Acceso |
 |------|------------|--------|
-| Ejemplo 01 | Criminal | [Ver archivo](./GUIA10/01 criminal.pl) |
+| Ejemplo 01 | Criminal | [Ver archivo](./GUIA10/01criminal.pl) |
 | Ejemplo 02 | Predicado dinamico 01 | [Ver archivo](./GUIA10/ejemplo2.pl) |
 | Ejemplo 03 | Predicado dinamico 02 | [Ver archivo](./GUIA10/ejemplo3.pl) |
 | Ejemplo 04 | Sistema Experto | [Ver archivo](./GUIA10/ejemplo4.pl) |
