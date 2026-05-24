@@ -67,6 +67,8 @@ PRIMERA PARCIAL
 | Ejercicio | Casos prácticos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA05/02BusquedaEjercicio.ipynb) |
 
 ---
+SEGUNDA PARCIAL
+---
 
 ### 🔹 GUÍA 06: Algoritmos Genéticos
 
