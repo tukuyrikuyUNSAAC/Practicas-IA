@@ -19,6 +19,7 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 
 # ![PRIMERA PARCIAL](https://img.shields.io/badge/PRIMERA%20PARCIAL-green?style=for-the-badge)
 ---
+![PRIMERA PARCIAL](https://img.shields.io/badge/PRIMERA%20PARCIAL-0A66C2?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ### 🔹 GUÍA 01: Fundamentos de Python
 
