@@ -17,9 +17,8 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 ## 📂 Contenido del Curso
 
 
-# ![PRIMERA PARCIAL](https://img.shields.io/badge/PRIMERA%20PARCIAL-green?style=for-the-badge)
----
-![PRIMERA PARCIAL](https://img.shields.io/badge/PRIMERA%20PARCIAL-0A66C2?style=for-the-badge&logo=googlecolab&logoColor=white)
+## ![PRIMERA PARCIAL](https://img.shields.io/badge/PRIMERA%20PARCIAL-green?style=for-the-badge)
+
 
 ### 🔹 GUÍA 01: Fundamentos de Python
 
@@ -68,8 +67,7 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 | Ejercicio | Casos prácticos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA05/02BusquedaEjercicio.ipynb) |
 
 
-SEGUNDA PARCIAL
----
+## ![SEGUNDA PARCIAL](https://img.shields.io/badge/SEGUNDA%20PARCIAL-green?style=for-the-badge)
 
 ### 🔹 GUÍA 06: Algoritmos Genéticos
 
