@@ -92,15 +92,3 @@ PRIMERA PARCIAL
 | Sistemas Expertos | Fundamentos y conceptos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUIA08/introduccion.ipynb) |
 
 ---
-
-⚠️ **IMPORTANTE:**  
-La tarea debe desarrollarse en una copia en Google Colab:  
-👉 Archivo → Guardar una copia en Drive  
-
----
-
-## 📌 Recomendaciones
-
-- ✔ Trabajar siempre en tu copia en Drive  
-- ✔ No modificar los archivos originales  
-- ✔ Entregar solo notebooks `.ipynb`  
