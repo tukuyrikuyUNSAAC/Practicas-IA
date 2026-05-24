@@ -106,10 +106,10 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 | Tema | Descripción | Acceso |
 |------|------------|--------|
 | Ejemplo 01 | Criminal | [Ver archivo](./GUIA10/01criminal.pl) |
-| Ejemplo 02 | Predicado dinamico 01 | [Ver archivo](./GUIA10/ejemplo2.pl) |
-| Ejemplo 03 | Predicado dinamico 02 | [Ver archivo](./GUIA10/ejemplo3.pl) |
-| Ejemplo 04 | Sistema Experto | [Ver archivo](./GUIA10/ejemplo4.pl) |
-| Presentación PDF | Fundamentos teóricos y ejercicios prácticos de Prolog | [Ver PDF](./GUIA10/Prolog01.pdf) |
+| Ejemplo 02 | Predicado dinamico 01 | [Ver archivo](./GUIA10/02predicado_dinamicoA.pl) |
+| Ejemplo 03 | Predicado dinamico 02 | [Ver archivo](./GUIA10/03predicado_dinamicoB.pl) |
+| Ejemplo 04 | Sistema Experto | [Ver archivo](./GUIA10/04sistemaExperto.pl) |
+| Presentación PDF | Fundamentos teóricos y ejercicios prácticos de Prolog | [Ver PDF](./GUIA10/SistemaExpertoProlog.pdf) |
 
 ## ![TERCERA PARCIAL](https://img.shields.io/badge/TERCERA%20PARCIAL-green?style=for-the-badge)
 
