@@ -114,3 +114,10 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 ## ![TERCERA PARCIAL](https://img.shields.io/badge/TERCERA%20PARCIAL-green?style=for-the-badge)
 
 ## ![PROYECTO DE FIN DE CURSO](https://img.shields.io/badge/PROYECTO-red?style=for-the-badge)
+
+### 🔴 PROYECTO - CHATBOT
+
+| Tema | Descripción | Acceso |
+|------|------------|--------|
+| Corpus Crucero | Base de conocimiento utilizada para entrenamiento del chatbot | [Ver archivo](./PROYECTO/Corpus_crucero.txt) |
+| Chatbot IA | Implementación del chatbot en Google Colab | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/PROYECTO/Chatbot.ipynb) |
