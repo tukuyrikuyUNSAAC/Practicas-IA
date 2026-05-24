@@ -98,7 +98,7 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 
 | Tema | Descripción | Acceso |
 |------|------------|--------|
-| Presentación PDF | Material teórico sobre lenguaje PROLOG y ejercicios básicos | [Ver PDF](./GUIA08/Prolog01.pdf) |
+| Presentación PDF | Material teórico sobre lenguaje PROLOG y ejercicios básicos | [Ver PDF](./GUIA09/Prolog01.pdf) |
 
 ---
 ### 🔹 GUÍA 10: Sistemas Expertos 03
