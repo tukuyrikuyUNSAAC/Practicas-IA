@@ -17,6 +17,8 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 ## 📂 Contenido del Curso
 
 ---
+PRIMERA PARCIAL
+---
 
 ### 🔹 GUÍA 01: Fundamentos de Python
 
