@@ -113,16 +113,16 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 
 ## ![TERCERA PARCIAL](https://img.shields.io/badge/TERCERA%20PARCIAL-green?style=for-the-badge)
 
-### 🔹 GUÍA 11: Preprocesamiento de Datos
+---
+
+### 🔹 GUÍA 11: Aprendizaje Automático
 
 | Tema | Descripción | Acceso |
 |------|------------|--------|
-| Introducción a NumPy | Fundamentos de la librería NumPy para cálculo numérico |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUÍA11/Introducción_a_NumPy.ipynb)|
-| Introducción a Pandas | Manejo y análisis de datos con Pandas |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUÍA11/Introducción_a_Pandas.ipynb)|
-| Preprocesamiento de datos | Técnicas de limpieza y preparación de datos |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUÍA11/Pre_procesamiento_de_datos.ipynb)|
-| Codificación de datos categóricos | Transformación de variables categóricas para modelos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUÍA11/Codificación_de_datos_categóricos.ipynb)|
-| Dataset Titanic | Conjunto de datos para prácticas y ejercicios | [Ver archivo](./GUÍA11/Titanic.csv) |
+| Aprendizaje automático - Ejemplo básico | Introducción práctica al machine learning con un ejemplo sencillo | [[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPOSITORIO/blob/main/GUÍA11/Aprendizaje_automático_Ejemplo_básico.ipynb) ](https://colab.research.google.com/github/juanperez/MachineLearning/blob/main/GUÍA11/Aprendizaje_automático_Ejemplo_básico.ipynb)|
+| Dataset Población Parásito | Conjunto de datos para prácticas y ejercicios | [Ver archivo](./GUÍA11/PoblacionParasito.csv) |
 
+---
 ---
 
 ### 🔹 GUÍA 12: Preprocesamiento y Análisis de Datos
