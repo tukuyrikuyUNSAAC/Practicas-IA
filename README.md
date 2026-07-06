@@ -113,6 +113,16 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 
 ## ![TERCERA PARCIAL](https://img.shields.io/badge/TERCERA%20PARCIAL-green?style=for-the-badge)
 
+### 🔹 GUÍA 11: Preprocesamiento de Datos
+
+| Tema | Descripción | Acceso |
+|------|------------|--------|
+| Introducción a NumPy | Fundamentos de la librería NumPy para cálculo numérico | [Ver archivo](./GUÍA11/Introducción_a_NumPy.ipynb) |
+| Introducción a Pandas | Manejo y análisis de datos con Pandas | [Ver archivo](./GUÍA11/Introducción_a_Pandas.ipynb) |
+| Preprocesamiento de datos | Técnicas de limpieza y preparación de datos | [Ver archivo](./GUÍA11/Pre_procesamiento_de_datos.ipynb) |
+| Codificación de datos categóricos | Transformación de variables categóricas para modelos | [Ver archivo](./GUÍA11/Codificación_de_datos_categóricos.ipynb) |
+| Dataset Titanic | Conjunto de datos para prácticas y ejercicios | [Ver archivo](./GUÍA11/Titanic.csv) |
+
 ## ![PROYECTO DE FIN DE CURSO](https://img.shields.io/badge/PROYECTO-red?style=for-the-badge)
 
 ### 🔴 PROYECTO - CHATBOT
