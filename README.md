@@ -117,7 +117,7 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 
 | Tema | Descripción | Acceso |
 |------|------------|--------|
-| Introducción a NumPy | Fundamentos de la librería NumPy para cálculo numérico | [Ver archivo](./GUÍA11/Introducción_a_NumPy.ipynb) |
+| Introducción a NumPy | Fundamentos de la librería NumPy para cálculo numérico |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUÍA11/Introducción_a_NumPy.ipynb)|
 | Introducción a Pandas | Manejo y análisis de datos con Pandas | [Ver archivo](./GUÍA11/Introducción_a_Pandas.ipynb) |
 | Preprocesamiento de datos | Técnicas de limpieza y preparación de datos | [Ver archivo](./GUÍA11/Pre_procesamiento_de_datos.ipynb) |
 | Codificación de datos categóricos | Transformación de variables categóricas para modelos | [Ver archivo](./GUÍA11/Codificación_de_datos_categóricos.ipynb) |
