@@ -123,6 +123,29 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 | Codificación de datos categóricos | Transformación de variables categóricas para modelos | [Ver archivo](./GUÍA11/Codificación_de_datos_categóricos.ipynb) |
 | Dataset Titanic | Conjunto de datos para prácticas y ejercicios | [Ver archivo](./GUÍA11/Titanic.csv) |
 
+---
+
+### 🔹 GUÍA 12: Preprocesamiento y Análisis de Datos
+
+| Tema | Descripción | Acceso |
+|------|------------|--------|
+| Introducción a NumPy | Fundamentos de la librería NumPy para cálculo numérico | [Ver archivo](./GUÍA12/Introducción_a_NumPy.ipynb) |
+| Introducción a Pandas | Manejo y análisis de datos con la librería Pandas | [Ver archivo](./GUÍA12/Introducción_a_Pandas.ipynb) |
+| Preprocesamiento de datos | Técnicas de limpieza y preparación de datasets | [Ver archivo](./GUÍA12/Pre_procesamiento_de_datos.ipynb) |
+| Codificación de datos categóricos | Transformación de variables categóricas para modelos | [Ver archivo](./GUÍA12/Codificación_de_datos_categóricos.ipynb) |
+| Dataset Titanic | Conjunto de datos para prácticas y ejercicios | [Ver archivo](./GUÍA12/Titanic.csv) |
+
+---
+---
+
+### 🔹 GUÍA 13: Árboles de Decisión
+
+| Tema | Descripción | Acceso |
+|------|------------|--------|
+| Árboles de Decisión | Implementación de algoritmos de clasificación y regresión basados en árboles | [Ver archivo](./GUÍA13/Árboles_de_decisión.ipynb) |
+
+---
+
 ## ![PROYECTO DE FIN DE CURSO](https://img.shields.io/badge/PROYECTO-red?style=for-the-badge)
 
 ### 🔴 PROYECTO - CHATBOT
