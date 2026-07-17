@@ -119,7 +119,7 @@ Aquí encontrarás notebooks interactivos para trabajar en Google Colab.
 
 | Tema | Descripción | Acceso |
 |------|------------|--------|
-| Aprendizaje automático - Ejemplo básico | Introducción práctica al machine learning con un ejemplo sencillo | [[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUÍA11/Aprendizaje_automático_Ejemplo_básico.ipynb) ]|
+| Aprendizaje automático - Ejemplo básico | Introducción práctica al machine learning con un ejemplo sencillo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tukuyrikuyUNSAAC/Practicas-IA/blob/main/GUÍA11/Aprendizaje_automático_Ejemplo_básico.ipynb) |
 | Dataset Población Parásito | Conjunto de datos para prácticas y ejercicios | [Ver archivo](./GUÍA11/PoblacionParasito.csv) |
 
 ---
